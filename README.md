@@ -8,3 +8,6 @@ The data itself we obtainned it from GitHub: https://github.com/owid/covid-19-da
 
 ## Analysis Results
 ![israel_data](https://github.com/cmatthew-s/covid_sigmoidal_analysis/blob/main/images/Israel%20Data.png)
+![japan_data](https://github.com/cmatthew-s/covid_sigmoidal_analysis/blob/main/images/Japan%20Data.png)
+![luxembourg_data](https://github.com/cmatthew-s/covid_sigmoidal_analysis/blob/main/images/Luxembourg%20Data.png)
+![united_states_data](https://github.com/cmatthew-s/covid_sigmoidal_analysis/blob/main/images/United%20States%20Data.png)
