@@ -5,3 +5,6 @@ This statistical analysis aims to prove the benefits of vaccines towards the cov
 
 ## Data Description
 The data itself we obtainned it from GitHub: https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv
+
+## Analysis Results
+[israel_data](images/Israel Data.png)
